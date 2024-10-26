@@ -1,0 +1,14 @@
+Weather Forecast: Borlänge, Dalarna, Sweden Weather Conditions
+
+Today: Mon 10/14
+Temperature: High48°F
+Precipitation: 8% Precip./0.00°in
+
+Tonight: Mon 10/14
+Temperature: Low29°F
+Precipitation: 6% Precip./0°
+
+Tomorrow: Tue 10/15
+Temperature: High48°F
+Precipitation: 7% Precip./0.00°in
+

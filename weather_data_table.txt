@@ -1,0 +1,17 @@
+Weather Heading: Weather in Borlänge, Sweden
+
+Weather Forecast:
+                                 | måndag           | tisdag           | onsdag          
+                                 | Afternoon        | Evening          | Night            | Morning          | Afternoon        | Evening          | Night           
+                Forecast         | Drizzle. Cloudy. | Sprin­kles. Broken clouds. | Clear.           | Sunny.           | Sunny.           | Overcast.        | Broken clouds.  
+                Temperature      | 10 °C            | 5 °C             | 2 °C             | 1 °C             | 8 °C             | 3 °C             | 3 °C            
+                                 | Drizzle. Cloudy. | Sprin­kles. Broken clouds. | Clear.           | Sunny.           | Sunny.           | Overcast.        | Broken clouds.  
+                Feels Like       | 9 °C             | 2 °C             | -1 °C            | -2 °C            | 7 °C             | 0 °C             | -1 °C           
+                Wind Speed       | 2 m/s            | 3 m/s            | 3 m/s            | 3 m/s            | 3 m/s            | 3 m/s            | 3 m/s           
+                Wind Direction   | NNW↑             | NW↑              | NW↑              | WNW↑             | W↑               | SW↑              | SW↑             
+                Humidity         | 79%              | 83%              | 82%              | 80%              | 52%              | 80%              | 91%             
+                Dew Point        | 6 °C             | 2 °C             | -1 °C            | -2 °C            | -1 °C            | 0 °C             | 1 °C            
+                Visibility       | 5 km             | 7 km             | 9 km             | 9 km             | 12 km            | 9 km             | 9 km            
+                Probability of Precipitation | 31%              | 24%              | 0%               | 0%               | 0%               | 0%               | 0%              
+                Amount of Rain   | 0.6  mm          | 0.4  mm          | -                | -                | -                | -                | -               
+                * Updated måndag den 14 oktober 2024 09:02:56 Borlänge time - Weather by CustomWeather, © 2024
